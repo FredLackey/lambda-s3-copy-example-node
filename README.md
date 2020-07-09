@@ -32,6 +32,6 @@ If you use this, I recommend adding a `deleteObject` from the `SOURCE_BUCKET` lo
 As always, if you find this and need a hand, feel free to reach out:
 
 **Fred Lackey**  
-**fred.lackey@gmail.com**
+**fred.lackey@gmail.com**  
 **http://fredlackey.com**
 
