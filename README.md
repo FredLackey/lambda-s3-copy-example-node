@@ -19,10 +19,10 @@ Name of the bucket to copy objects to.
 ## Process  
 The steps are as follows:
 
-#. Get a list of all objects
-#. Loop through objects
-#. Check if target object exists
-#. Copy object to target if new
+1. Get a list of all objects  
+2. Loop through objects  
+3. Check if target object exists  
+4. Copy object to target if new  
 
 ## Recommendation    
 If you use this, I recommend adding a `deleteObject` from the `SOURCE_BUCKET` location to speed up additional processing later on.  Also, since no _starting_ position is possible, it is likely you will always iterate over the same 1,000 objects.
