@@ -1,5 +1,4 @@
-# AWS Lambda Example: 
-# Copy Objects Between S3 Buckets using NodeJS
+# Copy Objects Between S3 Buckets using AWS Lambda & NodeJS
 Simple example function showing how to copy files between S3 buckets using AWS Lambda.
 
 ## Background  
